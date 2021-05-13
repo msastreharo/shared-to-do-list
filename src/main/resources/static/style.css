@@ -14,3 +14,13 @@ body {
     position: fixed;
     bottom: 0;
 }
+
+#input-form {
+    display: flex;
+    justify-content: center;
+}
+
+#submit-btn {
+    border-radius: 50%;
+    background-color: #F7A440;
+}
