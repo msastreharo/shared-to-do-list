@@ -20,7 +20,14 @@ body {
     justify-content: center;
 }
 
+#description {
+    color: #C4C4C4;
+}
+
 #submit-btn {
     border-radius: 50%;
     background-color: #F7A440;
+    color: white;
+    border: none;
+    margin-left: 10px;
 }
