@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.menu {
+    height: 180px;
+    background-color: #E1701A;
+}
+
+.input-section {
+    height: 160px;
+    width: 100%;
+    background-color: #FBFBFB;
+    position: fixed;
+    bottom: 0;
+}
